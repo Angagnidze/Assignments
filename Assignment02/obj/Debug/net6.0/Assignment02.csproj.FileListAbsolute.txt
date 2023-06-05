@@ -1,0 +1,15 @@
+C:\Users\AnGagnidze\source\repos\Assignment02\bin\Debug\net6.0\Assignment02.exe
+C:\Users\AnGagnidze\source\repos\Assignment02\bin\Debug\net6.0\Assignment02.deps.json
+C:\Users\AnGagnidze\source\repos\Assignment02\bin\Debug\net6.0\Assignment02.runtimeconfig.json
+C:\Users\AnGagnidze\source\repos\Assignment02\bin\Debug\net6.0\Assignment02.dll
+C:\Users\AnGagnidze\source\repos\Assignment02\bin\Debug\net6.0\Assignment02.pdb
+C:\Users\AnGagnidze\source\repos\Assignment02\obj\Debug\net6.0\Assignment02.csproj.AssemblyReference.cache
+C:\Users\AnGagnidze\source\repos\Assignment02\obj\Debug\net6.0\Assignment02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnGagnidze\source\repos\Assignment02\obj\Debug\net6.0\Assignment02.AssemblyInfoInputs.cache
+C:\Users\AnGagnidze\source\repos\Assignment02\obj\Debug\net6.0\Assignment02.AssemblyInfo.cs
+C:\Users\AnGagnidze\source\repos\Assignment02\obj\Debug\net6.0\Assignment02.csproj.CoreCompileInputs.cache
+C:\Users\AnGagnidze\source\repos\Assignment02\obj\Debug\net6.0\Assignment02.dll
+C:\Users\AnGagnidze\source\repos\Assignment02\obj\Debug\net6.0\refint\Assignment02.dll
+C:\Users\AnGagnidze\source\repos\Assignment02\obj\Debug\net6.0\Assignment02.pdb
+C:\Users\AnGagnidze\source\repos\Assignment02\obj\Debug\net6.0\Assignment02.genruntimeconfig.cache
+C:\Users\AnGagnidze\source\repos\Assignment02\obj\Debug\net6.0\ref\Assignment02.dll
