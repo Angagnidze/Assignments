@@ -58,6 +58,27 @@ while (n != 0)
 Console.WriteLine("ricvxebis aritmetikuli sashualo aris: " + average);
 Console.WriteLine("ricxvebis jami aris: " + sum);
 
+//4
+int number,a=1;
+Console.WriteLine("Enter Number: ");
+number = Convert.ToInt32(Console.ReadLine());
+int space =  number - 1;
+
+for (int i = 1; i <= number; i++)
+{
+    for (int j = 1; j <= space; j++)
+    {
+        Console.Write(" ");
+    }
+    for (int fifqi = 1; fifqi <= a; fifqi++)
+    {
+        Console.Write("*");
+    }
+    space--;
+    
+    a+=2;
+    Console.WriteLine();
+}
 
 //5
 bool x = true;
